@@ -1,5 +1,4 @@
-{
-    "questions": [
+ [
       {
         "question": "Which company invented React?",
         "options": ["Google", "Apple", "Netflix", "Facebook"],
@@ -136,4 +135,4 @@
         "points": 20
       }
     ]
-  }
+  
